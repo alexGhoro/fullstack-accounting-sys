@@ -1,10 +1,10 @@
 {
-  "name": "aspnet-core-react-registration-login-example-client",
+  "name": "fullstack-accounting-sys",
   "version": "1.0.0",
-  "description": "Client for React with ASP.NET Core User Registration and Login Example",
+  "description": "Client for React with ASP.NET Core accounting system tool",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornflourblue/aspnet-core-react-registration-login-example.git"
+    "url": "https://github.com/alexGhoro/fullstack-accounting-sys"
   },
   "license": "MIT",
   "scripts": {
